@@ -1,0 +1,25 @@
+.bg-dark {
+
+    margin:auto;
+    width:100%;
+    align-items: center;
+
+
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.navbar{
+    align-items: center;
+}
+nav{
+    align-items: center;
+}
+.container-fluid{
+    align-items: center;
+    margin: auto;
+}
